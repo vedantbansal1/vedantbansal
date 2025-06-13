@@ -1,3 +1,3 @@
 # vedantbansal
 This is my first work on github
-Author - VedanT Bansal
+Author - Vedant Bansal
